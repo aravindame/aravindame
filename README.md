@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aravinda Meewalaarachchi</h1>
-<h3 align="center">A passionate JavaScript Enthusiast and a blogger from Sri Lanka.</h3>
+<h3 align="center">A Senior Software Engineer and a Blogger from Sri Lanka.</h3>
 <h3 align="left">Reach me:</h3>
 <p align="left">
   <a href="https://twitter.com/AravindaMeewal1" target="blank">
